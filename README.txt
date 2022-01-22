@@ -59,3 +59,5 @@ Explaination of arguments passed into scraper.py
 
     "Y" : returns only jobs that have a valid application link
 
+
+https://user-images.githubusercontent.com/26271194/150628205-427b588c-c5ac-4afa-a70f-58c08b9bf786.mp4
