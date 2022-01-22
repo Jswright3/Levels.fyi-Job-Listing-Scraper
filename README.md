@@ -48,9 +48,9 @@ Setup:
 
 Example Usage: (my system requires the prefix "python3 -m" to run pipenv):
 
-python3 -m pipenv run python3 scraper.py "https://www.levels.fyi/internships/?track=Software%20Engineer" remote 20 Y > remoteOver20.txt
+    python3 -m pipenv run python3 scraper.py "https://www.levels.fyi/internships/?track=Software%20Engineer" remote 20 Y > remoteOver20.txt
 
-Explaination of arguments passed into scraper.py
+Explaination of arguments in example:
 
     "https://www.levels.fyi/internships/?track=Software%20Engineer":  Runs the scraper on Job Postings from given link
 
