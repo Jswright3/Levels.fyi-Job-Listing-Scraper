@@ -1,4 +1,4 @@
-Levels.fyi Job Posting Scraper:
+Levels.fyi Job Posting Scraper
 
 Dependencies:
 
@@ -20,8 +20,8 @@ Dependencies:
         Allows Selenium to open and run chrome to gather webpage data.
         Releases found here: https://chromedriver.chromium.org/downloads
 
-Scraper Usage:
-    variables in [] are optional, variables in <> are required
+Scraper Usage (variables in [] are optional, variables in <> are required):
+    
 
     python3 scraper.py <url> [minPay] [tag] [hasLink]
 
@@ -36,6 +36,7 @@ Scraper Usage:
             Default is false, to make true pass argument "Y"
 
 Setup:
+
     1. This scraper uses pipenv to manage the dependencies. There is a link above to the installation page.
     
     2. Once pipenv is installed you can use "pipenv install" to install all required dependencies in a virtual environment
