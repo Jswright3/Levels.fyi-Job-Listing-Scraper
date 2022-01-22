@@ -1,4 +1,4 @@
-Levels.fyi Job Posting Scraper
+<h1>Levels.fyi Job Posting Scraper</h1>
 
 Dependencies:
 
